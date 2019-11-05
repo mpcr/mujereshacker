@@ -1,4 +1,4 @@
-## Acerca de la iniciativa
+# Acerca de la iniciativa
 
 Con el hasthag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home) presenta una iniciativa para apoyar el sueño de las niñas que desean ser programadoras, matemáticas e ingenieras, para que la brecha de género disminuya en el acceso a estos estudios y a la posterior incorporación laboral.
 
@@ -6,7 +6,7 @@ Con el hasthag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home)
 
 GIT2019 es un evento anual que reune a niñas dde entre 10 a 14 años donde se quiere fomentar las disciplinas STEAM de mano de las #MujeresHacker de CDO, la unidad de datos de Telefónica.
 
-Proyectos como este hacen que estemos a la cabeza en el uso de la #IA en nuestro sector. Gracias por inspirarnos: http://tlfn.ca/ZraK30p2ZKz
+Proyectos como este hacen que estemos a la cabeza en el uso de la #IA en nuestro sector. Gracias a todas vosotras por inspirarnos: http://tlfn.ca/ZraK30p2ZKz
 
 
 ## Cómo colaborar
