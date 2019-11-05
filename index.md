@@ -3,7 +3,7 @@
 
 # Bienvenidas #mujereshacker
 
-- [Introducción](README.md)
+- [Introducción](readme.md)
 
 ## Agenda
 - [10:00 - 10:30 Registro de asistentes ](agenda/registro_asistentes.md)
