@@ -1,6 +1,6 @@
 # Acerca de la iniciativa
 
-Con el hasthag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home) presenta una iniciativa para apoyar el sueño de las niñas que desean ser programadoras, matemáticas e ingenieras, para que la brecha de género disminuya en el acceso a estos estudios y a la posterior incorporación laboral.
+Con el hashtag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home) presenta una iniciativa para apoyar el sueño de las niñas que desean ser programadoras, matemáticas e ingenieras, para que la brecha de género disminuya en el acceso a estos estudios y a la posterior incorporación laboral.
 
 ![GIT](agenda/assets/images/git.jpg)
 
