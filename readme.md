@@ -6,13 +6,8 @@ Con el hashtag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home)
 
 GIT2019 es un evento anual que reune a niñas dde entre 10 a 14 años donde se quiere fomentar las disciplinas STEAM de mano de las #MujeresHacker de CDO, la unidad de datos de Telefónica.
 
-Proyectos como este hacen que estemos a la cabeza en el uso de la #IA en nuestro sector. Gracias a todas vosotras por inspirarnos: http://tlfn.ca/ZraK30p2ZKz
+## Cómo contactar
 
-
-## Cómo colaborar
-
-Estamos abiertas a sugerencias acerca de cómo mejorar estas sesiones. Si quieres participar o contar tu historia, puedes contactarnos al email de mujereshacker@telefonica.com
-
-Además, si tienes alguna sugerencia de contenido, puedes colaborar con este repositorio haciendo un [hacer un fork](https://help.github.com/articles/fork-a-repo/) y haciéndonos llegar, posteriormente, un [pull request](https://help.github.com/articles/using-pull-requests/) para solucionar cualquier error que encuentres o añadir algún recurso o información.
+mailto:mujereshacker@telefonica.com
 
 **Cualquier ayuda es bienvenida, #mujereshacker :)**
