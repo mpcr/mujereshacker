@@ -1,0 +1,5 @@
+# ignore all DS_Store
+*/.DS_Store
+
+# ignore folder from idea IDE
+.idea/
