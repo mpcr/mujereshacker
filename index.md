@@ -2,7 +2,7 @@
 ![GIT](agenda/assets/images/git.jpg)
 
 # Bienvenida de nuestras #mujereshacker
-- [Introducción](readme.md)
+- [Introducción](intro.md)
 
 ## Agenda 14/12/2019
 - [10:00-10:30   Registro de asistentes](agenda/registro_asistentes.md)
