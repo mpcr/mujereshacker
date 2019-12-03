@@ -3,7 +3,7 @@
 ## Talleres en paralelo y rotativos
 
 1. Ciberseguridad
-2. [Big Data](bigdata_workshop.md)
+2. [Big Data](recursos/bigdata.md)
 3. 4P y RRSS
 
 ## Grupos rotativos y horarios
