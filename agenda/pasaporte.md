@@ -4,7 +4,7 @@
 
 1. Ciberseguridad
 2. [Big Data](pasaporte/bigdata_workshop.md)
-3. 4P y RRSS
+3. Redes Sociales
 
 ## Grupos rotativos y horarios
 - 12:00 - 12:30 Grupo #1 (20 niñas)
