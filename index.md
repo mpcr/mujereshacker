@@ -14,6 +14,6 @@
 - [13:45-14:00   Cierre](agenda/cierre.md)
 
 ## Recursos 
-- [Big Data](agenda/bigdata.md)
+- [Big Data](recursos/bigdata.md)
 - [Big Data W](agenda/bigdata_workshop.md)
-- [Extras](recursos/extras.md)
+- [Extras](recursos/extra.md)
