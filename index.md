@@ -1,10 +1,10 @@
-# #GIT2019 (14/12/2019 Distrito Telefónica)
+# #GIT2020 (11/01/2020 Distrito Telefónica)
 ![GIT](agenda/assets/images/git.jpg)
 
 # Bienvenida de nuestras #mujereshacker
 - [Introducción](intro.md)
 
-## Agenda 14/12/2019
+## Agenda 11/01/2020
 - [10:00-10:30   Registro de asistentes](agenda/registro_asistentes.md)
 - [10:30-10:40   Bienvenida Chema Alonso (CDO Telefónica)](agenda/bienvenida_chema.md)
 - [10:40-11:40   Crea tu propio bot](agenda/crea_tu_propio_bot.md)
