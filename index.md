@@ -15,5 +15,4 @@
 
 ## Recursos 
 - [Big Data](recursos/bigdata.md)
-- [Big Data W](agenda/bigdata_workshop.md)
 - [Extras](recursos/extra.md)
