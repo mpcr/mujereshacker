@@ -6,7 +6,7 @@ Con el hashtag #MujeresHacker, [Telefónica](https://www.telefonica.com/es/home)
 
 GIT (Girls Inspire Tech) es un evento anual que reune a niñas de entre 10 a 14 años donde se quiere fomentar las disciplinas STEAM de mano de las #MujeresHacker de CDO, la unidad de datos de Telefónica.
 
-## GIT2019
+## GIT2020
 
 No dudes en participar este año: [agenda](index.md)
 
