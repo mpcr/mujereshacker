@@ -9,7 +9,7 @@
 - [10:30-10:40   Bienvenida Chema Alonso (CDO Telefónica)](agenda/bienvenida_chema.md)
 - [10:40-11:40   Crea tu propio bot](agenda/crea_tu_propio_bot.md)
 - [11.40-12:00   BRUNCH BREAK](agenda/brunch.md)
-- [12:00-12:30   PASAPORTE GIT (con talleres rotativos)](agenda/index.md): taller [Big Data](agenda/bigdata.md)
+- [12:00-12:30   PASAPORTE GIT (con talleres rotativos)](agenda/index.md): taller [Big Data](recursos/bigdata.md)
 - [13.30-13.45   Invitada especial](agenda/invitada.md)
 - [13:45-14:00   Cierre](agenda/cierre.md)
 
